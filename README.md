@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, i'm Simon
+
+- 19 yrs
+- student
+- learning code since 2020 
+
+Some projects i did:
 
 <!--
 **simon8889/simon8889** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
