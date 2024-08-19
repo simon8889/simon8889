@@ -1,6 +1,6 @@
 ### Hi, i'm Simon
 
-- 19 yrs
+- 20 yrs
 - student
 - learning code since 2020 
 
