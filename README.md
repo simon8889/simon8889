@@ -21,4 +21,3 @@
 - 💪 I'm passionate about going to the gym and staying active
 - 🛼 I enjoy practicing speed skating whenever I can
 - 🎮 Some of my favorite games are **Red Dead Redemption 2** and **Call of Duty: Black Ops 3**
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=simon8889&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
