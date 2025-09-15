@@ -5,4 +5,3 @@
 - 🇨🇴 Colombian
 - 💻 Passionate about coding
 - 🎓 Informatics Engineering student at IUE
-- 👨‍💻 Learning to code since 2020 
